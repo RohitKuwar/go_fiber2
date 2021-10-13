@@ -1,0 +1,13 @@
+build/
+config/
+
+# Dependency directories
+vendor/
+
+# IDE specific files
+.vscode
+
+# Env files
+.env
+
+serviceAccountKey.json
